@@ -27,7 +27,7 @@ function App() {
   }
 
   return (
-    bonjour
+    
     <div className="App">
       <Joke joke={joke} />
       <button className="btn" onClick={() => fetchJoke()}>
