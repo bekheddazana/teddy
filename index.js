@@ -5,9 +5,7 @@ import App from 'App';
 import * as serviceWorker from 'serviceWorker';
 
 ReactDOM.render(<App />, document.getElementById('root'));
-function Header() {
-  return (<h1>La maison jungle</h1>)
-}
+
 
 
 
